@@ -9,4 +9,4 @@ Insomnia
 
 
 #### About
-in the index it is about the classes during the module 1, and the challenge is about the module 1.
+in the index.js it is about the classes during the module 1, and the challenge.js is about the challenge module 1.
