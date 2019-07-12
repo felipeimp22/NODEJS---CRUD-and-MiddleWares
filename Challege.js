@@ -23,7 +23,7 @@ const timer = [];
 //------------------------------------------------------------------------------
 // Global Middleware
 /*List time of requisition, method, url used
- and count how many requisitions have been made */
+ and account the amount of request that was made */
 App.use((req, res, next) => {
   timer.push(req.url);
   console.time("Request");
